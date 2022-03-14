@@ -1,8 +1,8 @@
 # unicks.eu
 
 ## Inhaltsverzeichnis:
-- [Serien](./serien/README.md)
-- [Einzelne Videos]()
+- [Serien](https://github.com/tweimann/unicks.eu/blob/main/serien/arch_linux.md)
+- [Einzelne Videos](#einzelne-videos)
 - [Livestreams]()
 - [Relevante Quellen]()
 - [Mitwirkende]()
