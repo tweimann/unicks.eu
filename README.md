@@ -1,32 +1,39 @@
 # unicks.eu
 
 ## Inhaltsverzeichnis:
-- [Serien](https://github.com/tweimann/unicks.eu/blob/main/serien/arch_linux.md)
+- [Serien](#serien)
 - [Einzelne Videos](#einzelne-videos)
-- [Livestreams]()
-- [Relevante Quellen]()
-- [Mitwirkende]()
+- [Livestreams](#livestreams)
+- [Relevante Quellen](#relevante-quellen)
+- [Mitwirkende](#mitwirkende)
 
 ## Serien
 
-- [Arch Linux]()
-- [Arch My Way]()
-- [BtrFS]()
-- [Das Jahr des Linux Desktops!]()
-- [Heimserver]()
-- [Linux Einsteiger]()
-- [Linux Lernen]()
-- [Linux Mint]()
-- [Manjaro Snapper und BtrFS]()
-- [NAS im Eigenbau]()
-- [Openmediavault]()
-- [Proxmox]()
-- [Total Arch Linux]()
-- [Videoschnitt mit Shotcut]()
+- [Arch Linux](./serien/arch_linux.md)
+- [Arch My Way](./serien/arch_my_way.md)
+- [BtrFS](./serien/btrfs.md)
+- [Das Jahr des Linux Desktops!](./serien/das_jahr_des_linux_desktops.md)
+- [Heimserver](./serien/heimserver.md)
+- [Linux App](./serien/linux_app.md)
+- [Linux Einsteiger](./serien/linux_einsteiger.md)
+- [Linux Lernen](./serien/linux_lernen.md)
+- [Linux Mint](./serien/linux_mint.md)
+- [Linux Sicherheit](./serien/linux_sicherheit.md)
+- [Manjaro Snapper und BtrFS](./serien/manjaro_snapper_und_btrfs.md)
+- [NAS im Eigenbau](./serien/nas_im_eigenbau.md)
+- [Nick erklärt](./serien/nick_erkl%C3%A4rt.md)
+- [Openmediavault](./serien/openmediavault.md)
+- [Proxmox](./serien/proxmox.md)
+- [Total Arch Linux](./serien/total_arch_linux.md)
+- [Videoschnitt mit Shotcut](./serien/videoschnitt_mit_shotcut.md)
 
 ## Einzelne Videos
 
+- siehe [Einzelne Videos](/einzelne-videos.md)
+
 ## Livestreams
+
+- 
 
 ## Relevante Quellen
 
