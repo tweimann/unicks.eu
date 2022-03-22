@@ -35,6 +35,12 @@
 
 - 
 
+## Kanäle
+
+- [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ)
+- [Ni3K](https://www.youtube.com/channel/UCXI6aoojwBFJaDuOSZzHh5Q)
+- [Schallplatte](https://www.youtube.com/channel/UCo2huzN5qHJfzpjG-SDKCbQ)
+
 ## Relevante Quellen
 
 - [das Internet Archive](http://web.archive.org/web/20201111215013if_/https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
