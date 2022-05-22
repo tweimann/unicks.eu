@@ -51,3 +51,7 @@
 - anonym 
 - [masterblaster256](https://github.com/masterblaster256)
 - [nikitrix](https://github.com/nikitrix)
+
+### Status
+
+- ich lade aktuell viele seiner Videos runter und archiviere sie lokal. sobald ich damit fertig bin, werden sie online zur verfügung gestellt
