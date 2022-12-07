@@ -38,8 +38,8 @@
 ## Kanäle
 
 - [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ)
-- [Ni3K](https://www.youtube.com/channel/UCXI6aoojwBFJaDuOSZzHh5Q)
 - [Schallplatte](https://www.youtube.com/channel/UCo2huzN5qHJfzpjG-SDKCbQ)
+- Er hat einen dritten Kanal, auf dem er immernoch Videos hochlädt. Zum Schutz seiner Privatsphäre verlinke ich ihn nicht.
 
 ## Relevante Quellen
 
@@ -54,4 +54,4 @@
 
 ### Status
 
-- ich lade aktuell viele seiner Videos runter und archiviere sie lokal. sobald ich damit fertig bin, werden sie online zur verfügung gestellt
+- aktuell kann ich aus zeitgründen nicht so viel machen wie ich gern würde
