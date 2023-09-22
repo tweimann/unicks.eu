@@ -39,7 +39,7 @@
 
 - [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ)
 - [Schallplatte](https://www.youtube.com/channel/UCo2huzN5qHJfzpjG-SDKCbQ)
-- Er hat einen dritten Kanal, auf dem er immernoch Videos hochlädt. Zum Schutz seiner Privatsphäre verlinke ich ihn nicht.
+- Er hat einen dritten Kanal, auf dem er immernoch Videos hochlädt. Zum Schutz seiner Privatsphäre verlinke ich ihn nicht. UPDATE 09/2023: auch die Videos auf diesem Kanal sind nun offline.
 
 ## Relevante Quellen
 
