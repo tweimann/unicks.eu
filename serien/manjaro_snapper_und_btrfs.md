@@ -24,5 +24,5 @@
 
 - Video: Manjaro Snapper und Btrfs | Teil 3 Rollback auf einen Snapshot
   - YT: https://www.youtube.com/watch?v=-wr1tRYjC-w _(unlisted)_
-  - WA:
+  - WA: https://web.archive.org/web/20220305091153/https://www.youtube.com/watch?v=-wr1tRYjC-w
 
