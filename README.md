@@ -54,4 +54,5 @@
 
 ### Status
 
-- aktuell kann ich aus zeitgründen nicht so viel machen wie ich gern würde
+- ich bin jetzt stolzer besitzer der unicks.eu domain
+- aktuell arbeite ich daran die videos runterzuladen und erstmal auf odysee sowie einer privaten peertube-instanz zu spiegeln, ein veröffentlichungszeitpunkt steht noch nicht fest
