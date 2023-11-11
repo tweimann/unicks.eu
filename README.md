@@ -1,5 +1,7 @@
 # unicks.eu
 
+Die Videos sind nun auch auf [Odysee](https://odysee.com/@unicks.eu) zu finden
+
 ## Inhaltsverzeichnis:
 - [Serien](#serien)
 - [Einzelne Videos](#einzelne-videos)
